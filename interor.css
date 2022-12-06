@@ -1,0 +1,70 @@
+main {
+    width: inherit;
+    background-color: aliceblue;
+    height: 800px;
+    position: relative;
+}
+main h2 {
+    color: #405357;
+    width: 280px;
+    font-size: 36px;
+    padding: 130px 20px 0 20px;
+}
+article {
+    float: left;
+    margin-top: 20px;
+}
+article .img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8  {
+    width: 184px;
+    height: 200px;
+    margin: 5px 20px;
+    cursor: pointer;
+}
+article .img1 {
+    background: url(img/interor1jpg.jpg) center;
+    background-size: cover;
+}
+article .img2 {
+    background: url(img/interor2.jpg) center;
+    background-size: cover;
+}
+article .img3 {
+    background: url(img/interor3.webp) center;
+    background-size: cover;
+}
+article .img4 {
+    background: url(img/interor4.jpg) center;
+    background-size: cover;
+}
+article .text1, .text2, .text3, .text4, .text5, .text6, .text7, .text8 {
+    font-size: 15px;
+    margin: 10px 0 20px 20px;
+}
+article .img5 {
+    background: url(img/interor5.jpg) center;
+    background-size: cover;
+}
+article .img6 {
+    background: url(img/interor6.jpg) center;
+    background-size: cover;
+}
+article .img7 {
+    background: url(img/interor7.jpg) center;
+    background-size: cover;
+}
+article .img8 {
+    background: url(img/interor8.jpg) center;
+    background-size: cover;
+}
+main p {
+    background: #80a6ad;
+    padding: 10px;
+    width: 20px;
+    height: 12px;
+    color: white;
+    font-size: 10px;
+    text-align: center;
+    position: absolute;
+    top: 203px;
+    left: 20px;
+}

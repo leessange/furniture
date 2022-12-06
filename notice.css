@@ -1,0 +1,62 @@
+body {
+    background: #abc4c9;
+}
+main {
+    width: inherit;
+    height: 800px;
+    background-color: aliceblue;
+    position: relative;
+}
+main h2 {
+    color: #405357;
+    width: 300px;
+    font-size: 36px;
+    padding: 110px 20px 20px 20px;
+}
+main .content {
+    width: 450px;
+    height: 7px;
+    margin-left: 20px;
+    text-align: justify;
+}
+main #form {
+    float: right;
+}
+main #form input {
+    width: 380px;
+    height: 20px;
+    padding: 5px 5px;
+    font-size: 10px;
+    margin-bottom: 3px;
+    color: #2c3c3f;
+    margin-right: 20px;
+    float: right;
+}
+main #form button {
+    width: 70px;
+    font-size: 10px;
+    padding: 5px 5px;
+    background: #2c3c3f;
+    border: none;
+    color: white;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-right: 10px;
+    position: absolute;
+    top: 467px;
+    right: 11px;
+}
+textarea {
+    resize: none;
+    width: 391px;
+    /* padding: 5px 5px; */
+    color: #2c3c3f;
+    margin-right: 20px;
+    float: right;
+}
+/* div {
+    width: 460px;
+}
+::-webkit-scrollbar {
+    width: 0px;
+} */

@@ -1,0 +1,43 @@
+main {
+    width: inherit;
+    background-color: aliceblue;
+}
+main h2 {
+    color: #405357;
+    width: 200px;
+    font-size: 36px;
+    padding: 110px 20px 20px 20px;
+}
+main #img1 {
+    background: url(img/img04.jpg) center;
+    background-size: cover;
+    width: 422px;
+    height: 378px;
+    float: right;
+    margin: 0 20px 20px 10px;
+}
+.content {
+    padding: 0 0 0 20px;
+    width: 420px;
+    float: left;
+    text-align: justify;
+    margin-bottom: 40px;
+}
+main h2 {
+    color: #405357;
+    width: 200px;
+    font-size: 36px;
+    padding: 130px 20px 20px 20px;
+}
+section #multi {
+    column-count: 2;
+    -webkit-column-count: 2;
+    column-gap: 15px;
+    width: 860px;
+    text-align: justify;
+    padding: 0 0 0 20px;
+}
+section #multi p {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
